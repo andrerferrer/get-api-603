@@ -6,7 +6,7 @@ First clone this repository to your laptop. You must have Node (> v4) and [yarn]
 BATCH=603
 
 cd ~/code/$USER
-git clone git@github.com:andrerferrer/$BATCH-get-api.git get-api
+git clone git@github.com:andrerferrer/get-api-$BATCH.git get-api
 cd get-api
 yarn install
 stt # Open this folder in Sublime Text
